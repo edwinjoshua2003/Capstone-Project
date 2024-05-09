@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "Name": "edwin",
+            "Age": 21,
+            "Gender": "male",
+            "Disease": "Typhoid",
+            "Sympts": [
+                "headache",
+                "high_fever",
+                "vomiting",
+                "fatigue",
+                "headache",
+                "nausea",
+                "abdominal_pain",
+                "toxic_look_(typhos)",
+                "belly_pain"
+            ]
+        }
+    ]
+}
